@@ -1,4 +1,4 @@
-### Hola Amigos 👋,   I'm Shirshakk Purkayastha 🤓.
+### Hello Devs 👋,   I'm Shirshakk Purkayastha 🤓.
  Currently an EECS undergrad@IISER-Bhopal. 
   
 ##### *Machine Learning, Linux Computing, Multi-spectrum analysis and Cyber-security enthusiast*
