@@ -1,7 +1,7 @@
-### Hi / Hallo / Hola Amigos 👋,   I'm Shirshakk Purkayastha 🤓.
-  Currently an EECS undergrad@IISER-Bhopal. 
+### Hola Amigos 👋,   I'm Shirshakk Purkayastha 🤓.
+ Currently an EECS undergrad@IISER-Bhopal. 
   
-  👨‍💻 *Machine Learning, Linux Computing, Multi-spectrum analysis and Cyber-security enthusiast*
+##### *Machine Learning, Linux Computing, Multi-spectrum analysis and Cyber-security enthusiast*
 
 - 📫 Reach out to me: seashark98@gmail.com
 - ⚡ Tech Stack: 
