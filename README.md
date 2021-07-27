@@ -1,5 +1,5 @@
 ### Hello Devs 👋,   I'm Shirshakk Purkayastha 🤓.
- Currently an EECS undergrad@IISER-Bhopal.  <img width ='20px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/iiserb.png'> 
+ Currently an EECS undergrad@IISER-Bhopal.  <a href = 'https://iiserb.ac.in'><img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/iiserb.png'></a>
   
 ##### *Machine Learning, Linux Computing, Multi-spectrum analysis and Cyber-security enthusiast*
 
