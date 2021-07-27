@@ -1,12 +1,12 @@
 ### Hello Devs 👋,   I'm Shirshakk Purkayastha 🤓.
- Currently an EECS undergrad@IISER-Bhopal. 
+ Currently an EECS undergrad@IISER-Bhopal.  <img width ='20px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/iiserb.png'> 
   
 ##### *Machine Learning, Linux Computing, Multi-spectrum analysis and Cyber-security enthusiast*
 
 ![Visitors:](https://visitor-badge.glitch.me/badge?page_id=Shirshakk-P.Shirshakk-P)
 
 - 📫 Reach out to me: seashark98@gmail.com
-- ⚡ Tech Stack: <p><img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/c.jpeg'>  <img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/cpp.jpeg'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/python.jpeg'></p>
+- ⚡ Tech Stack: <p><img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/c.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/c++.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/python.jpeg'>  <img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/matlab.jpeg'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/r.jpeg'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/java.jpeg'></p>
 
 
 
