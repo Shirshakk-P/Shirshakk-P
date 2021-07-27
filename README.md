@@ -1,4 +1,7 @@
-### Hello Devs 👋,   I'm Shirshakk Purkayastha 🤓.
+### Hello Devs 👋,   I'm Shirshakk Purkayastha 🤓. 
+<h3><p><a href = 'https://www.linkedin.com/in/shirshakk-purkayastha'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp
+<a href = 'https://www.twitter.com/PShirshakk'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> &nbsp
+<a href = 'https://www.github.com/Shirshakk-P'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a></p></h3>
  Currently an EECS undergrad @ <a href = 'https://iiserb.ac.in'>IISER-Bhopal. 
   
 #### *Machine Learning, Linux Computing, Multi-Spectrum Analysis and Cyber-Security enthusiast*
@@ -13,7 +16,4 @@
 #### Tools: 
   <p><img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/tf.png'>  &nbsp<img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/lt.png'>  &nbsp<img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/arduino.png'>  &nbsp<img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/comsol.png'>  &nbsp<img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/git.png'>  &nbsp<img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/eclipse.png'>  &nbsp<img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/latex.png'>  &nbsp<img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/freecad.png'>  &nbsp<img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/pycharm.png'>  &nbsp<img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/pandas.png'>  &nbsp<img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/wordpres.png'>  &nbsp<img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/numpy.png'>  &nbsp<img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/vb.png'>  &nbsp<img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/rstudio.png'>  &nbsp<img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/github.png'>  &nbsp<img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/scikit.png'>  &nbsp<img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/vs-code.png'></a></p></h3>
 
-#### Connect with me:
-<h3><p><a href = 'https://www.linkedin.com/in/shirshakk-purkayastha'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp
-<a href = 'https://www.twitter.com/PShirshakk'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> &nbsp
-<a href = 'https://www.github.com/Shirshakk-P'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a></p></h3>
+
