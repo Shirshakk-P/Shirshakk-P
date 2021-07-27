@@ -6,7 +6,7 @@
 ![Visitors:](https://visitor-badge.glitch.me/badge?page_id=Shirshakk-P.Shirshakk-P)
 
 - 📫 Reach out to me: seashark98@gmail.com
-- ⚡ Tech Stack: <p><img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/c.jpeg'></p>
+- ⚡ Tech Stack: <p><img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/c.jpeg'>  <img width ='28px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/cpp.jpeg'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/python.jpeg'></p>
 
 
 
