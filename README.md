@@ -4,7 +4,7 @@
 <a href = 'https://www.github.com/Shirshakk-P'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a></p></h3>
  Currently an EECS undergrad @ <a href = 'https://iiserb.ac.in'>IISER-Bhopal. </a>
   
-#### *Machine Learning, Linux Computing, Multi-Spectrum Analysis and Cyber-Security enthusiast*
+#### *Machine Learning, Linux Computing, Scientific Computing, Simulations, Multi-Spectrum Analysis and Cyber-Security enthusiast*
 
 ![Visitors:](https://visitor-badge.glitch.me/badge?page_id=Shirshakk-P.Shirshakk-P)
 
