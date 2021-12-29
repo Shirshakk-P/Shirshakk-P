@@ -2,7 +2,7 @@
 <h3><p><a href = 'https://www.linkedin.com/in/shirshakk-purkayastha'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp
 <a href = 'https://www.twitter.com/PShirshakk'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> &nbsp
 <a href = 'https://www.github.com/Shirshakk-P'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a></h3>
-<a href = 'https://www.instagram.com/seashark.p/'> <img width = '20px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png"/></a></p></h3></p>
+<a href = 'https://www.instagram.com/seashark.p/'> <img width = '20px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png"/></a></p></h3>
  Currently an EECS undergrad @ <a href = 'https://iiserb.ac.in'>IISER-Bhopal. </a>
   
 #### *Machine Learning, Linux Computing, Scientific Computing, Simulations, Multi-Spectrum Analysis and Cyber-Security enthusiast*
