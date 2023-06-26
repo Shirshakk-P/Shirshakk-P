@@ -5,7 +5,7 @@
 <a href = 'https://www.instagram.com/seashark.p/'> <img width = '20px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png"/></a></p></h3>
  Currently an EECS undergrad @ <a href = 'https://iiserb.ac.in'>IISER-Bhopal. </a>
   
-#### *Machine Learning, Linux Computing, Scientific Computing, Simulations, Multi-Spectrum Analysis and Cyber-Security enthusiast*
+#### *Machine Learning, Linux and Scientific Computing, Simulations and Deep Reinforcement Learning enthusiast*
 
 
 
