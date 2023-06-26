@@ -7,7 +7,7 @@
   
 #### *Machine Learning, Linux Computing, Scientific Computing, Simulations, Multi-Spectrum Analysis and Cyber-Security enthusiast*
 
-![Visitors:](https://visitor-badge.glitch.me/badge?page_id=Shirshakk-P.Shirshakk-P)
+
 
 - 📫 Reach out to me: shirshakk@duck.com
 - ⚡ Tech Stack: <p><img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/c.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/c++.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/python.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/matlab.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/r.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/java.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/oct.png'></p>
