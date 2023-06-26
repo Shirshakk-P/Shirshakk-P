@@ -10,7 +10,7 @@
 
 
 - 📫 Reach out to me: shirshakk@duck.com
-- ⚡ Tech Stack: <p><img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/c.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/c++.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/python.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/matlab.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/r.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/java.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/oct.png'></p>
+- ⚡ Tech Stack: <p><img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/c.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/c++.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/python.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/matlab.png'> <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/java.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/oct.png'></p>
 - 💻 OS: <p><img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/linux.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/ubuntu.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/fedora.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/kali.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/win.png'></p>
 
 
