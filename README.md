@@ -4,7 +4,9 @@
 <a href = 'https://www.twitter.com/PShirshakk'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> &nbsp
 <a href = 'https://www.github.com/Shirshakk-P'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp
 <a href = 'https://www.instagram.com/seashark.p/'> <img width = '20px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png"/></a></p></h3>
-AI Enginner, ex-EECS grad @ <a href = 'https://iiserb.ac.in'>IISER-Bhopal. </a>
+  > M.Tech (IT) @ <a href = 'https://iiita.ac.in'>IIIT-Allahabad. </a>
+  > ex- AI Engineer (SimDaaS Autonomy Pvt Ltd)
+  > ex-EECS grad @ <a href = 'https://iiserb.ac.in'>IISER-Bhopal. </a>
   
 #### *Machine Learning, Linux and Scientific Computing, Simulations and Deep Reinforcement Learning enthusiast*
 
