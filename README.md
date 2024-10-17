@@ -1,4 +1,4 @@
-## 𝚂𝚑𝚒𝚛𝚜𝚑𝚊𝚔𝚔 𝙿𝚞𝚛𝚔𝚊𝚢𝚊𝚜𝚝𝚑𝚊. 
+## Shirshakk Purkayastha !. 
 <h3><p><a href = 'https://www.linkedin.com/in/shirshakk-purkayastha'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp
 <a href = 'https://www.twitter.com/PShirshakk'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> &nbsp
 <a href = 'https://www.github.com/Shirshakk-P'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp
