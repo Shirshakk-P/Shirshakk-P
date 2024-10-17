@@ -1,4 +1,4 @@
-### Shirshakk Purkayastha !
+# Shirshakk Purkayastha !
 
 <h3><p><a href = 'https://www.linkedin.com/in/shirshakk-purkayastha'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp
 <a href = 'https://www.twitter.com/PShirshakk'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> &nbsp
