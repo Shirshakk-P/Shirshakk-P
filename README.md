@@ -17,7 +17,7 @@
 
 
 - 📫 Reach out to me: shirshakk@duck.com
-- ⚡ Tech Stack: <p><img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/c.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/c++.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/python.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/matlab.png'>
+- ⚡ Tech Stack: <p><img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/c.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/c++.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/python.png'>  <img width ='24px' src ='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/matlab.png'> <img width='24px' src='https://github.com/Shirshakk-P/Shirshakk-P/blob/main/javascript.png'>
 
 
 #### Tools: 
