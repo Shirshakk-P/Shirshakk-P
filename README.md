@@ -12,7 +12,7 @@
   
   > ex-EECS grad @ <a href = 'https://iiserb.ac.in'>IISER-Bhopal. </a>
   
-#### *Machine Learning, Linux Computing, Simulations and Deep Reinforcement Learning enthusiast*
+#### *Machine Learning, Federated Learning, Deep Learning, Linux Computing, and Deep Reinforcement Learning enthusiast*
 
 
 
